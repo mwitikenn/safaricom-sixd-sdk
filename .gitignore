@@ -1,0 +1,14 @@
+/target/
+target/
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+
+
+
+#netbeans files
+nb-configuration.xml
+
+# IntelliJ files
+*.iml
+.idea/*
